@@ -24,7 +24,7 @@ function App() {
     {
         id:4,
         checked:true,
-        item: "julia appelt"
+        item: "One EnergyDrink"
       }
 ]);
 
